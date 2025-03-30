@@ -1,0 +1,49 @@
+l : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
+Not Normal temperature
+Temperature : 24.71
+Moisture val : 876
